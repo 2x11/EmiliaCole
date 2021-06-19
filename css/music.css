@@ -17,8 +17,7 @@ i{
     color:black;
     }
 
-
-#barraDeNavegacion, #logos{
+    #barraDeNavegacion, #logos{
     text-align: right;
     
 }
@@ -37,6 +36,30 @@ h2{
     font-family: 'raleway';
     font-size: 60px;
 }
+
+
+ul li {
+    text-decoration: none !important;
+    list-style: none;
+    color: gray;
+}
+h3{
+    font-family: raleway;
+    text-transform: uppercase;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 .blinking{
     animation:blinkingText 0.8s infinite;
