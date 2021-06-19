@@ -4,8 +4,14 @@ body{
     background-size: 100% 120px;
     font-family: 'open sans','sans-serif';
 }
+
+ul.menu{
+    background-size: 100%;
+    padding: 0px;
+}
 .menu a{
     color: black;
+    background-size: 100%;
 }
 
 .menu a:hover {
