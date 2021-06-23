@@ -45,6 +45,7 @@ h2{
 
 a {
     color: grey;
+    text-decoration: none;
 }
 
 ul li {
@@ -58,7 +59,9 @@ h3{
     margin-top: 60px;
 }
 
-
+ol {
+    list-style-type: decimal-leading-zero;
+}
 
 
 
