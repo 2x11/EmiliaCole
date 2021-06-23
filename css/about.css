@@ -18,7 +18,7 @@ ul.menu{
 .menu a:hover {
     Text-decoration:none !important;
     color: rgba(31, 182, 169, 0.993);
-    }
+}
 
 .menu i{ 
     color:black;
