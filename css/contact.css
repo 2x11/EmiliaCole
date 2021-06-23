@@ -57,3 +57,12 @@ a {
     text-decoration: none;
     color: grey;
 }
+
+div {
+    font-family: 'work sans';
+    color:grey;
+    margin-top: 40px;
+    text-align: center;
+    background-color:  rgba(99, 97, 97, 0.103);
+    line-height: 40px;
+}
