@@ -17,12 +17,19 @@ ul.menu{
 
 .menu a:hover {
     Text-decoration:none !important;
-    Color:white;
+    color: rgba(31, 182, 169, 0.993);
     }
 
 .menu i{ 
     color:black;
-    }
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.menu i:hover{
+    color: rgba(31, 182, 169, 0.993);
+}
+
 
 #barraDeNavegacion, #logos{
     text-align: right;
